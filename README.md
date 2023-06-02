@@ -24,7 +24,7 @@ pip install requests beautifulsoup4
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/webcrawlers.git
+git clone https://github.com/TheRealSaiTama/webcrawlers.git
 ```
 
 2. Navigate to the repository directory:
@@ -48,7 +48,4 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to explore, modify, and use the code in accordance with the license terms.
 
 ```
-
-Make sure to replace "your-username" in the repository URL with your actual GitHub username.
-
-Let me know if you need any further assistance!
+Have Fun
